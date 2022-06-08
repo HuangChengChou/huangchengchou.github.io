@@ -1,7 +1,7 @@
 ---
 title: "AuxFormer: Robust Approach to Audiovisual Emotion Recognition"
 collection: publications
-permalink: [Project page](https://github.com/ilucasgoncalves/AuxFormer)
+permalink: 2009-10-01-paper-title-number-1
 date: 2022-05-22
 venue: 'IEEE international conference on acoustics, speech and signal processing (ICASSP 2022)'
 paperurl: [Paper](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Goncalves_2022.pdf)
