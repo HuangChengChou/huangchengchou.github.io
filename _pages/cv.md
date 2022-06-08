@@ -45,9 +45,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[<span style="color:black">[Access to Publications]</span>](https://ilucasgoncalves.github.io/publications/)
   
   
 Teaching
