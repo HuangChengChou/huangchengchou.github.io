@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+[<span style="color:navy">[Download CV]</span>](http://ilucasgoncalves.github.io/files/cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical Engineering -  GPA 4.00/4.00
+  * THE UNIVERSITY OF TEXAS AT DALLAS, May 2024 Expected
+* B.S. in Electrical Engineering - GPA 3.67/4.00
+  * UNIVERSITY OF WISCONSIN – PLATTEVILLE, Dec 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2020 – Present: Research Assistant
+  * Multimodal Signal Processing (MSP) Lab, Richardson, TX
+  * Currently working on developing machine learning algorithms for studying expressive behavior. My research interests include machine learning, emotion recognition, human computer interaction (HCI), time series modelling, audio and video signal processing.
+  * Supervisor: Dr. Carlos Busso
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2019 – Aug 2020: Electrical Design Engineer
+  * Seagrave Fire Apparatus LLC, Clintonville, WI
+  * Principal electrical engineer on research and development of new generation of Seagrave’s fire apparatus. Coordinated with mechanical and hydraulics teams updates needed to implement CAN bus J1939 protocol rate change-over from 250 kbits/s to 500 kbits/s. Developed a database to enable easy access from other teams to electrical parts and reduce time spent consulting with electrical engineers.
+
+* Jan 2018 – Dec 2018: Student Researcher
+  * Pioneer Speech Signal Processing Lab, Platteville, WI
+  * Researched statistical methods used in machine learning clustering algorithms. Studied and implemented different clustering algorithms in MATLAB, such as, k-means, hierarchical clustering, and decision trees. Successfully investigated and implemented techniques to improve k-means clustering, such as, optimal initialization, best number of centroids, and stopping criterion methods.
+  * Supervisor: Dr. Hynek Boril
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Languages</b>
+  * Python, MATLAB, Verilog, VHDL, C++, HCS12
+* <b>System programming</b>
+  * Linux, Windows, macOS, AS/400
+* <b>Frameworks & Tools</b>
+  * Pytorch, TensorFlow, Kaldi, OpenCV, SolidWorks, AutoCAD, Simulink, LabVIEW, IQAN
 
 Publications
 ======
@@ -42,11 +49,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
