@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[<font color="navy">Google Scholar Profile</font>](https://scholar.google.com/citations?user=M7AZbh8AAAAJ&hl=en)</b>
 
-{% include base_path %}
+## Conference
+<b>Lucas Goncalves</b> and Carlos Busso, " Improving Speech Emotion Recognition Using Self-Supervised Learning with Domain-Specific Audiovisual Tasks” in Interspeech 2022, Incheon, Korea, September 2022.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Lucas Goncalves</b> and Carlos Busso, " AuxFormer: Robust Approach to Audiovisual Emotion Recognition” in IEEE international conference on acoustics, speech and signal processing (ICASSP 2022), Singapore, May 2022.
+
+
+## Journal
+<b>Lucas Goncalves</b> and Carlos Busso , " Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information and Handling Missing Features," IEEE Transactions on Affective Computing, vol. to appear, 2022.
