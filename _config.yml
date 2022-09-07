@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huang-Cheng Chou / PhD candidate"
+title                    : "Huang-Cheng Chou/PhD candidate"
 title_separator          : "-"
 name                     : &name "Huang-Cheng Chou"
 description              : &description "Huang-Cheng Chou, David, is studying for a PhD degree in electrical engineering. His interests are Affective Computing, Emotion Recognition, Emotion Perception, Deception Detection, and Behavioral Signal Processing.  He's familiar with machine learning, deep learning, and multimodal behavior signal processing, now working with professors, Da-Cheng Juan, Yi-Wen Liu, Carlos Busso, and Chi-Chun Lee."
